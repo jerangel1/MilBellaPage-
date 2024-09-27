@@ -1,0 +1,3082 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeSky\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-16 06:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: widgets/twitter.php:138 elementor/general/twitter_slider.php:357
+msgid " days ago"
+msgstr ""
+
+#: widgets/twitter.php:132 elementor/general/twitter_slider.php:351
+msgid " hours ago"
+msgstr ""
+
+#: widgets/twitter.php:126 elementor/general/twitter_slider.php:345
+msgid " min ago"
+msgstr ""
+
+#: widgets/twitter.php:142 elementor/general/twitter_slider.php:361
+msgid " months ago"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:306
+msgid " on "
+msgstr ""
+
+#: widgets/twitter.php:145 elementor/general/twitter_slider.php:364
+msgid " years ago"
+msgstr ""
+
+#: elementor/ajax-functions.php:152 widgets/blogs.php:156
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/general/testimonial.php:84
+msgid "1"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:108
+msgid "1 Column"
+msgstr ""
+
+#: widgets/twitter.php:129 elementor/general/twitter_slider.php:348
+msgid "1 hour ago"
+msgstr ""
+
+#: widgets/twitter.php:123 elementor/general/twitter_slider.php:342
+msgid "1 min ago"
+msgstr ""
+
+#: widgets/twitter.php:142 elementor/general/twitter_slider.php:361
+msgid "1 month ago"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:32
+msgid "1 star"
+msgstr ""
+
+#: widgets/twitter.php:145 elementor/general/twitter_slider.php:364
+msgid "1 year ago"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:33
+msgid "1.5 star"
+msgstr ""
+
+#: elementor/general/testimonial.php:85
+msgid "2"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:109
+msgid "2 Columns"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:34
+msgid "2 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:35
+msgid "2.5 stars"
+msgstr ""
+
+#: elementor/general/testimonial.php:86
+msgid "3"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:36
+msgid "3 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:37
+msgid "3.5 stars"
+msgstr ""
+
+#: metaboxes/product_options.php:112
+msgid "360 Gallery"
+msgstr ""
+
+#: elementor/general/testimonial.php:87
+msgid "4"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:38
+msgid "4 stars"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:39
+msgid "4.5 stars"
+msgstr ""
+
+#: elementor/general/testimonial.php:88
+msgid "5"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:40
+msgid "5 stars"
+msgstr ""
+
+#: elementor/general/testimonial.php:89
+msgid "6"
+msgstr ""
+
+#: elementor/general/testimonial.php:90
+msgid "7"
+msgstr ""
+
+#: elementor/general/testimonial.php:91
+msgid "8"
+msgstr ""
+
+#: widgets/instagram.php:171
+msgid "Access Token"
+msgstr ""
+
+#: widgets/twitter.php:225 elementor/general/twitter_slider.php:175
+msgid "Access token"
+msgstr ""
+
+#: widgets/twitter.php:229 elementor/general/twitter_slider.php:186
+msgid "Access token secret"
+msgstr ""
+
+#: elementor/general/logos.php:119
+msgid "Activate link"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:91
+msgid "Active tab"
+msgstr ""
+
+#: metaboxes/metaboxes.php:264
+msgid "Add Images"
+msgstr ""
+
+#: register_post_type.php:389
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:912 register_post_type.php:957
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:1028
+msgid "Add new brand"
+msgstr ""
+
+#: register_post_type.php:98 register_post_type.php:619
+#: register_post_type.php:781
+msgid "Add New Category"
+msgstr ""
+
+#: register_post_type.php:741
+msgid "Add New Logo"
+msgstr ""
+
+#: register_post_type.php:579
+msgid "Add New Testimonial"
+msgstr ""
+
+#: register_post_type.php:51
+msgid "Add Portfolio"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add shortcodes and custom post types for the Agrofood Theme"
+msgstr ""
+
+#: importer/importer.php:45
+msgid "Agrofood - Import Demo Content"
+msgstr ""
+
+#: importer/importer.php:46
+msgid "Agrofood Importer"
+msgstr ""
+
+#: elementor/general/portfolios.php:75
+msgid "Align center"
+msgstr ""
+
+#: elementor/general/portfolios.php:74
+msgid "Align left"
+msgstr ""
+
+#: elementor/general/portfolios.php:76
+msgid "Align right"
+msgstr ""
+
+#: functions.php:423
+msgid "All"
+msgstr ""
+
+#: register_post_type.php:1023 widgets/product_filter_by_brand.php:143
+#: widgets/product_filter_by_brand.php:149
+#: widgets/product_filter_by_brand.php:167
+msgid "All brands"
+msgstr ""
+
+#: register_post_type.php:93 register_post_type.php:614
+#: register_post_type.php:776
+msgid "All Categories"
+msgstr ""
+
+#: register_post_type.php:915
+msgid "All Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:744
+msgid "All Logos"
+msgstr ""
+
+#: register_post_type.php:960
+msgid "All Mega Menus"
+msgstr ""
+
+#: register_post_type.php:49
+msgid "All Portfolios"
+msgstr ""
+
+#: widgets/recent_comments.php:153
+msgid "All Posts"
+msgstr ""
+
+#: register_post_type.php:387
+msgid "All Team Members"
+msgstr ""
+
+#: register_post_type.php:582
+msgid "All Testimonials"
+msgstr ""
+
+#: functions.php:239
+msgid "Already Sold:"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:187
+#: widgets/product_filter_by_brand.php:321
+msgid "AND"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:145
+msgid "API Keys"
+msgstr ""
+
+#: widgets/twitter.php:214
+msgid "API Keys:"
+msgstr ""
+
+#: widgets/product_categories.php:174 widgets/blogs.php:299
+#: widgets/product_filter_by_brand.php:357 elementor/general/portfolios.php:232
+#: elementor/general/blogs.php:135
+msgid "Ascending"
+msgstr ""
+
+#: metaboxes/post_options.php:82
+msgid "Audio URL"
+msgstr ""
+
+#: widgets/recent_comments.php:214 widgets/products.php:344
+#: widgets/blogs.php:377 widgets/instagram.php:212
+#: elementor/general/logos.php:148 elementor/general/portfolios.php:164
+#: elementor/general/twitter_slider.php:119
+#: elementor/general/testimonial.php:243 elementor/general/team_members.php:129
+#: elementor/general/blogs.php:322 elementor/woocommerce/product_deals.php:177
+#: elementor/woocommerce/product_categories.php:283
+#: elementor/woocommerce/product_brands.php:185
+#: elementor/woocommerce/products.php:252
+#: elementor/woocommerce/products_in_product_type_tabs.php:246
+#: elementor/woocommerce/products_in_category_tabs.php:379
+msgid "Auto play"
+msgstr ""
+
+#: functions.php:238
+msgid "Available:"
+msgstr ""
+
+#: elementor/general/countdown.php:71
+#: elementor/woocommerce/product_categories.php:204
+msgid "Background Color"
+msgstr ""
+
+#: elementor/general/banner.php:63 elementor/general/banner-2.php:33
+#: elementor/woocommerce/products_in_category_tabs.php:191
+msgid "Background Image"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:80
+msgid "Banner Images"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:92
+msgid "Banner Images On Device"
+msgstr ""
+
+#: elementor/general/banner.php:33
+msgid "Banner Min Height(px)"
+msgstr ""
+
+#: elementor/general/banner.php:73
+msgid "Banner Text"
+msgstr ""
+
+#: elementor/general/banner.php:113
+msgid "Banner Text Position"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:342
+msgid "Based on the current products"
+msgstr ""
+
+#: widgets/social_icons.php:50
+msgid "Become our fan"
+msgstr ""
+
+#: metaboxes/page_options.php:280
+msgid "Before Header"
+msgstr ""
+
+#: metaboxes/page_options.php:281
+msgid "Before Main Content"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:55
+#: elementor/woocommerce/products.php:67
+#: elementor/woocommerce/products_in_product_type_tabs.php:78
+#: elementor/woocommerce/products_in_category_tabs.php:126
+#: elementor/woocommerce/products_in_category_tabs.php:246
+msgid "Best Selling"
+msgstr ""
+
+#: widgets/products.php:260
+msgid "Best selling"
+msgstr ""
+
+#: widgets/facebook_page.php:116
+msgid "Box height"
+msgstr ""
+
+#: metaboxes/page_options.php:81
+msgid "Boxed"
+msgstr ""
+
+#: register_post_type.php:1020
+msgid "Brand"
+msgstr ""
+
+#: register_post_type.php:1017 register_post_type.php:1021
+#: widgets/product_filter_by_brand.php:162
+#: elementor/woocommerce/product_brands.php:74
+msgid "Brands"
+msgstr ""
+
+#: metaboxes/post_options.php:68 metaboxes/product_options.php:91
+#: metaboxes/page_options.php:225
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: metaboxes/page_options.php:213
+msgid "Breadcrumb Background Parallax"
+msgstr ""
+
+#: metaboxes/page_options.php:200
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:205
+msgid "Breadcrumb Layout 1"
+msgstr ""
+
+#: metaboxes/page_options.php:206
+msgid "Breadcrumb Layout 2"
+msgstr ""
+
+#: metaboxes/page_options.php:207
+msgid "Breadcrumb Layout 3"
+msgstr ""
+
+#: metaboxes/product_options.php:84
+msgid "Breadcrumbs"
+msgstr ""
+
+#: woo_term.php:35 woo_term.php:118
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: register_post_type.php:866
+msgid "Breakpoint from"
+msgstr ""
+
+#: elementor/general/portfolios.php:347
+msgid "Button"
+msgstr ""
+
+#: elementor/general/banner.php:229
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/general/banner.php:255
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: elementor/general/banner.php:176
+msgid "Button Default"
+msgstr ""
+
+#: elementor/general/banner.php:171
+msgid "Button Style"
+msgstr ""
+
+#: elementor/general/banner.php:177 elementor/general/banner.php:187
+msgid "Button Text"
+msgstr ""
+
+#: elementor/general/banner.php:242
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor/general/banner.php:268
+msgid "Button Text Color Hover"
+msgstr ""
+
+#: widgets/recent_comments.php:84 widgets/blogs.php:191
+msgid "by "
+msgstr ""
+
+#: metaboxes/testimonial_options.php:13
+msgid "Byline"
+msgstr ""
+
+#: widgets/instagram.php:194 widgets/twitter.php:209
+#: elementor/general/twitter_slider.php:133
+msgid "Cache time (hours)"
+msgstr ""
+
+#: widgets/social_icons.php:75
+msgid "Call Us"
+msgstr ""
+
+#: includes/instagram.php:88
+msgid "Can not refresh Instagram token. It may be incorrect."
+msgstr ""
+
+#: register_post_type.php:100 register_post_type.php:621
+#: register_post_type.php:783 elementor/general/logos.php:102
+#: elementor/general/portfolios.php:193 elementor/general/testimonial.php:47
+#: elementor/general/blogs.php:81
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:329
+msgid "Category base"
+msgstr ""
+
+#: elementor/general/countdown.php:47 elementor/general/mailchimp.php:129
+#: elementor/general/blogs.php:103
+msgid "Center"
+msgstr ""
+
+#: elementor/general/banner.php:124 elementor/general/banner-2.php:64
+msgid "Center Bottom"
+msgstr ""
+
+#: elementor/general/banner.php:125 elementor/general/banner-2.php:65
+msgid "Center Center"
+msgstr ""
+
+#: elementor/general/banner.php:123 elementor/general/banner-2.php:63
+msgid "Center Top"
+msgstr ""
+
+#: widgets/social_icons.php:78
+msgid "Chat With Us"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:104
+msgid "Child of"
+msgstr ""
+
+#: woo_filter_by_color.php:93 woo_filter_by_color.php:161
+#: register_post_type.php:1086 register_post_type.php:1175
+msgid "Choose an image"
+msgstr ""
+
+#: woo_filter_by_color.php:67 woo_filter_by_color.php:135
+msgid "Choose Image"
+msgstr ""
+
+#: metaboxes/metaboxes.php:228
+msgid "Clear Image"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:13
+msgid "Client"
+msgstr ""
+
+#: woo_filter_by_color.php:55 woo_filter_by_color.php:126
+msgid "Color"
+msgstr ""
+
+#: elementor/general/countdown.php:57
+msgid "Color Style"
+msgstr ""
+
+#: widgets/instagram.php:179
+msgid "Column"
+msgstr ""
+
+#: elementor/general/logos.php:84 elementor/general/portfolios.php:52
+#: elementor/general/testimonial.php:80 elementor/general/team_members.php:59
+#: elementor/general/blogs.php:54 elementor/woocommerce/product_deals.php:66
+#: elementor/woocommerce/product_categories.php:50
+#: elementor/woocommerce/product_brands.php:63
+#: elementor/woocommerce/list_of_product_categories.php:66
+#: elementor/woocommerce/products.php:78
+#: elementor/woocommerce/products_in_product_type_tabs.php:109
+#: elementor/woocommerce/products_in_category_tabs.php:137
+msgid "Columns"
+msgstr ""
+
+#: widgets/blogs.php:291
+msgid "Comment count"
+msgstr ""
+
+#: widgets/twitter.php:217 elementor/general/twitter_slider.php:153
+msgid "Consumer key"
+msgstr ""
+
+#: widgets/twitter.php:221 elementor/general/twitter_slider.php:164
+msgid "Consumer secret"
+msgstr ""
+
+#: functions.php:301
+msgctxt "Countdown Timer"
+msgid "Days"
+msgstr ""
+
+#: functions.php:314
+msgctxt "Countdown Timer"
+msgid "Hours"
+msgstr ""
+
+#: functions.php:325
+msgctxt "Countdown Timer"
+msgid "Mins"
+msgstr ""
+
+#: functions.php:336
+msgctxt "Countdown Timer"
+msgid "Secs"
+msgstr ""
+
+#: register_post_type.php:850
+msgid "Crop"
+msgstr ""
+
+#: register_post_type.php:856
+msgid "Crop image after uploading"
+msgstr ""
+
+#: elementor/general/countdown.php:62
+msgid "Custom"
+msgstr ""
+
+#: register_post_type.php:328
+msgid "Custom base"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:34
+msgid "Custom Field"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:52
+msgid "Custom Field Content"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:45
+msgid "Custom Field Title"
+msgstr ""
+
+#: widgets/social_icons.php:205
+msgid "Custom Font - Use FontAwesome class"
+msgstr ""
+
+#: metaboxes/team_options.php:69 widgets/social_icons.php:197
+msgid "Custom Link"
+msgstr ""
+
+#: metaboxes/team_options.php:76
+msgid "Custom Link Icon Class"
+msgstr ""
+
+#: woo_term.php:241 woo_term.php:299
+msgid "Custom Social URL"
+msgstr ""
+
+#: woo_term.php:245 woo_term.php:305
+msgid "Custom Social URL Class"
+msgstr ""
+
+#: metaboxes/product_options.php:52 metaboxes/product_options.php:59
+msgid "Custom Tab"
+msgstr ""
+
+#: metaboxes/product_options.php:77
+msgid "Custom Tab Content"
+msgstr ""
+
+#: metaboxes/product_options.php:70
+msgid "Custom Tab Title"
+msgstr ""
+
+#: widgets/social_icons.php:201
+msgid "Custom Text - Show on tooltip"
+msgstr ""
+
+#: widgets/blogs.php:290 elementor/general/portfolios.php:216
+#: elementor/general/countdown.php:33 elementor/general/blogs.php:119
+msgid "Date"
+msgstr ""
+
+#: elementor/general/portfolios.php:123
+msgid "Decide the margins between the images"
+msgstr ""
+
+#: woo_term.php:50 woo_term.php:61 woo_term.php:71 woo_term.php:144
+#: woo_term.php:157 woo_term.php:169 metaboxes/portfolio_options.php:38
+#: metaboxes/post_options.php:5 metaboxes/post_options.php:42
+#: metaboxes/product_options.php:5 metaboxes/product_options.php:26
+#: metaboxes/product_options.php:63 metaboxes/page_options.php:10
+#: metaboxes/page_options.php:20 metaboxes/page_options.php:35
+#: metaboxes/page_options.php:80 metaboxes/page_options.php:128
+#: metaboxes/page_options.php:154 metaboxes/page_options.php:204
+#: metaboxes/page_options.php:217 elementor/general/currency.php:46
+#: elementor/general/twitter_slider.php:81 elementor/general/testimonial.php:37
+#: elementor/general/testimonial.php:195 elementor/general/countdown.php:61
+#: elementor/general/mailchimp.php:143 elementor/general/language.php:46
+#: elementor/woocommerce/product_categories.php:39
+#: elementor/woocommerce/product_brands.php:39
+#: elementor/woocommerce/products_in_category_tabs.php:47
+msgid "Default"
+msgstr ""
+
+#: widgets/product_categories.php:175 widgets/blogs.php:300
+#: widgets/product_filter_by_brand.php:358 elementor/general/portfolios.php:231
+#: elementor/general/blogs.php:134
+msgid "Descending"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:101
+msgid "Direct Children"
+msgstr ""
+
+#: elementor/woocommerce/products.php:266
+msgid "Disable slider responsive"
+msgstr ""
+
+#: widgets/blogs.php:13
+msgid "Display blogs on site"
+msgstr ""
+
+#: widgets/twitter.php:13
+msgid "Display latest tweets"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:13
+msgid "Display Mailchimp Subscription Form"
+msgstr ""
+
+#: widgets/recent_comments.php:13
+msgid "Display recent comments on site"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:326
+msgid "Display style"
+msgstr ""
+
+#: widgets/facebook_page.php:13
+msgid "Display the Facebook Page"
+msgstr ""
+
+#: elementor/general/banner-2.php:46
+msgid "Display this image over the main image"
+msgstr ""
+
+#: widgets/instagram.php:13
+msgid "Display your photos from Instagram"
+msgstr ""
+
+#: widgets/product_categories.php:13
+msgid "Display Your Product Categories"
+msgstr ""
+
+#: widgets/products.php:13
+msgid "Display your products on site"
+msgstr ""
+
+#: widgets/social_icons.php:13
+msgid "Display Your Social Icons"
+msgstr ""
+
+#: widgets/product_categories.php:159
+msgid "Dont select to show all"
+msgstr ""
+
+#: metaboxes/team_options.php:48
+msgid "Dribbble Link"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:329
+msgid "Dropdown"
+msgstr ""
+
+#: elementor/general/currency.php:42 elementor/general/language.php:42
+msgid "Dropdown position"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:184
+msgid ""
+"Each tab will be a sub category of this category. This option is available "
+"when the Product categories option is empty"
+msgstr ""
+
+#: register_post_type.php:1026
+msgid "Edit brand"
+msgstr ""
+
+#: register_post_type.php:96 register_post_type.php:617
+#: register_post_type.php:779
+msgid "Edit Category"
+msgstr ""
+
+#: register_post_type.php:913
+msgid "Edit Footer Block"
+msgstr ""
+
+#: register_post_type.php:742
+msgid "Edit Logo"
+msgstr ""
+
+#: register_post_type.php:958
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: register_post_type.php:390
+msgid "Edit Member"
+msgstr ""
+
+#: register_post_type.php:52
+msgid "Edit Portfolio"
+msgstr ""
+
+#: register_post_type.php:580
+msgid "Edit Testimonial"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:221
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:14
+msgid ""
+"Enter a byline for the customer giving this testimonial. For example: CEO of "
+"Theme-Sky"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:7
+msgid ""
+"Enter an e-mail address to display Gravatar profile image instead of using "
+"the \"Featured Image\". You have to remove the \"Featured Image\"."
+msgstr ""
+
+#: metaboxes/testimonial_options.php:21
+msgid ""
+"Enter an URL that applies to this customer. For example: http://theme-sky."
+"com/"
+msgstr ""
+
+#: metaboxes/feature_options.php:7
+msgid ""
+"Enter an URL that applies to this feature. For example: http://theme-sky.com/"
+msgstr ""
+
+#: widgets/social_icons.php:145
+msgid "Enter description about your social icons"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:87
+msgid "Enter intro text"
+msgstr ""
+
+#: metaboxes/post_options.php:83
+msgid "Enter MP3, OGG, WAV file URL or SoundCloud URL"
+msgstr ""
+
+#: register_post_type.php:636
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: register_post_type.php:420
+msgid "Enter the member name here"
+msgstr ""
+
+#: register_post_type.php:121
+msgid "Enter the portfolio title here"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:83
+msgid "Enter title"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:7
+msgid "Enter URL to the live version of the project"
+msgstr ""
+
+#: widgets/recent_comments.php:157 widgets/product_categories.php:127
+#: widgets/social_icons.php:141 widgets/facebook_page.php:91
+#: widgets/products.php:250 widgets/blogs.php:275 widgets/instagram.php:167
+#: widgets/twitter.php:189
+msgid "Enter your title"
+msgstr ""
+
+#: metaboxes/post_options.php:97 metaboxes/product_options.php:106
+msgid "Enter Youtube or Vimeo video URL"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:28
+msgid ""
+"Enter Youtube or Vimeo video URL. Display this video instead of the featured "
+"image on the detail page"
+msgstr ""
+
+#: widgets/twitter.php:202 elementor/general/twitter_slider.php:63
+msgid "Exclude replies"
+msgstr ""
+
+#: widgets/social_icons.php:50
+msgid "Facebook"
+msgstr ""
+
+#: metaboxes/team_options.php:20
+msgid "Facebook Link"
+msgstr ""
+
+#: widgets/facebook_page.php:95
+msgid "Facebook page URL"
+msgstr ""
+
+#: woo_term.php:217 woo_term.php:263 widgets/social_icons.php:157
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/products.php:259 elementor/woocommerce/product_deals.php:54
+#: elementor/woocommerce/products.php:66
+#: elementor/woocommerce/products_in_product_type_tabs.php:77
+#: elementor/woocommerce/products_in_category_tabs.php:125
+#: elementor/woocommerce/products_in_category_tabs.php:245
+msgid "Featured"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:14
+msgid "Filter by product brand. This widget does not appear on the Brand page"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:12
+msgid "Filter in stock or out of stock products"
+msgstr ""
+
+#: elementor/general/banner.php:288 elementor/general/banner-2.php:91
+msgid "Flash"
+msgstr ""
+
+#: widgets/social_icons.php:71
+msgid "Flickr"
+msgstr ""
+
+#: widgets/social_icons.php:185
+msgid "Flickr URL"
+msgstr ""
+
+#: widgets/social_icons.php:53
+msgid "Follow us"
+msgstr ""
+
+#: elementor/general/banner.php:83
+msgid "Font Size Banner Text(px)"
+msgstr ""
+
+#: elementor/general/banner.php:198
+msgid "Font Size Button"
+msgstr ""
+
+#: elementor/general/mailchimp.php:94
+msgid "Font Size Intro text(px)"
+msgstr ""
+
+#: elementor/general/mailchimp.php:64
+msgid "Font Size Title(px)"
+msgstr ""
+
+#: metaboxes/page_options.php:316
+msgid "Footer Block"
+msgstr ""
+
+#: register_post_type.php:921
+msgid "Footer Blocks"
+msgstr ""
+
+#: metaboxes/page_options.php:65
+msgid "Footer Layout Fullwidth"
+msgstr ""
+
+#: elementor/general/mailchimp.php:33
+msgid "Form"
+msgstr ""
+
+#: woo_term.php:51 woo_term.php:145 metaboxes/post_options.php:43
+#: metaboxes/product_options.php:27 metaboxes/page_options.php:92
+#: elementor/woocommerce/products_in_product_type_tabs.php:235
+msgid "Fullwidth"
+msgstr ""
+
+#: elementor/general/logos.php:25 elementor/general/currency.php:25
+#: elementor/general/portfolios.php:29 elementor/general/twitter_slider.php:25
+#: elementor/general/testimonial.php:25 elementor/general/countdown.php:25
+#: elementor/general/mailchimp.php:25 elementor/general/team_members.php:25
+#: elementor/general/banner.php:25 elementor/general/blogs.php:29
+#: elementor/general/language.php:25 elementor/general/banner-2.php:25
+#: elementor/woocommerce/product_deals.php:25
+#: elementor/woocommerce/product_categories.php:25
+#: elementor/woocommerce/product_brands.php:25
+#: elementor/woocommerce/list_of_product_categories.php:25
+#: elementor/woocommerce/products.php:25
+#: elementor/woocommerce/products_in_product_type_tabs.php:25
+#: elementor/woocommerce/products_in_category_tabs.php:25
+msgid "General"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:229
+msgid "General tab heading"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:115
+msgid "Get all descendents of this category"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:94
+msgid "Get children of this category"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:108
+msgid "Get direct children of Parent or all children"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:96
+msgid "Get direct children of this category"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:222
+msgid "Get products from all categories or sub categories"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:6
+msgid "Gravatar Email Address"
+msgstr ""
+
+#: elementor/general/logos.php:38 elementor/general/blogs.php:43
+#: elementor/woocommerce/product_deals.php:40
+#: elementor/woocommerce/products.php:39
+msgid "Grid"
+msgstr ""
+
+#: metaboxes/page_options.php:117
+msgid "Header - Breadcrumb"
+msgstr ""
+
+#: metaboxes/page_options.php:124
+msgid "Header Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:129
+msgid "Header Layout 1"
+msgstr ""
+
+#: metaboxes/page_options.php:130
+msgid "Header Layout 2"
+msgstr ""
+
+#: metaboxes/page_options.php:131
+msgid "Header Layout 3"
+msgstr ""
+
+#: metaboxes/page_options.php:132
+msgid "Header Layout 4"
+msgstr ""
+
+#: metaboxes/page_options.php:43
+msgid "Header Layout Fullwidth"
+msgstr ""
+
+#: metaboxes/page_options.php:150
+msgid "Header Text Color"
+msgstr ""
+
+#: elementor/woocommerce/products.php:49
+msgid "Heading Background Image"
+msgstr ""
+
+#: elementor/general/portfolios.php:78 elementor/general/portfolios.php:346
+msgid "Hide"
+msgstr ""
+
+#: elementor/general/banner.php:175
+msgid "Hide Button"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:338
+msgid "Hide empty brands"
+msgstr ""
+
+#: widgets/product_categories.php:140
+msgid "Hide empty categories"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:115
+msgid "Hide empty product brands"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:139
+#: elementor/woocommerce/list_of_product_categories.php:145
+msgid "Hide empty product categories"
+msgstr ""
+
+#: widgets/social_icons.php:151
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/general/banner-2.php:84
+msgid "Hover Effect"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://theme-sky.com"
+msgstr ""
+
+#: woo_term.php:22 woo_term.php:95
+msgid "Icon"
+msgstr ""
+
+#: class-elementor.php:219 widgets/blogs.php:288
+#: elementor/general/portfolios.php:215 elementor/general/blogs.php:118
+msgid "ID"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:276
+#: elementor/woocommerce/products.php:245
+#: elementor/woocommerce/products_in_product_type_tabs.php:223
+#: elementor/woocommerce/products_in_category_tabs.php:372
+msgid "If enabled, the navigation buttons will be removed"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:56
+msgid ""
+"If enabled, you go to Logos > Settings to configure image size and slider "
+"responsive"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:343
+msgid "If this option is enabled, the empty brands are always hidden"
+msgstr ""
+
+#: widgets/twitter.php:214
+msgid "if you dont input your API Keys, it will use our API Keys."
+msgstr ""
+
+#: importer/importer.php:30
+msgid ""
+"If you have any problem with importer, please read this article <a "
+"href=\"https://ocdi.com/import-issues/\" target=\"_blank\">https://ocdi."
+"com/import-issues/</a> and check your hosting configuration, or contact our "
+"support team here <a href=\"https://skygroup.ticksy.com/\" target=\"_blank\">"
+"https://skygroup.ticksy.com/</a>."
+msgstr ""
+
+#: register_post_type.php:345
+msgid ""
+"If you want to change the permalink of the portfolio, please fill in the "
+"field below"
+msgstr ""
+
+#: register_post_type.php:231 register_post_type.php:519
+#: register_post_type.php:680 register_post_type.php:1228
+#: elementor/woocommerce/products_in_category_tabs.php:60
+msgid "Image"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:157
+msgid "Image Grayscale"
+msgstr ""
+
+#: register_post_type.php:843
+msgid "Image height"
+msgstr ""
+
+#: register_post_type.php:831
+msgid "Image Size"
+msgstr ""
+
+#: elementor/general/banner-2.php:43
+msgid "Image Text"
+msgstr ""
+
+#: elementor/general/banner-2.php:53
+msgid "Image Text Position"
+msgstr ""
+
+#: register_post_type.php:836
+msgid "Image width"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:80
+msgid "In stock"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:201
+msgid "Include children"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:115
+msgid "Include parent"
+msgstr ""
+
+#: elementor/general/team_members.php:43
+msgid "Include these members"
+msgstr ""
+
+#: elementor/general/testimonial.php:184
+msgid "Input -1 to show all content"
+msgstr ""
+
+#: register_post_type.php:846
+msgid "Input image height (In pixels)"
+msgstr ""
+
+#: register_post_type.php:839
+msgid "Input image width (In pixels)"
+msgstr ""
+
+#: widgets/social_icons.php:56
+msgid "Instagram"
+msgstr ""
+
+#: includes/instagram.php:131
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: includes/instagram.php:146
+msgid "Instagram Image"
+msgstr ""
+
+#: metaboxes/team_options.php:62
+msgid "Instagram Link"
+msgstr ""
+
+#: woo_term.php:225 woo_term.php:275 widgets/social_icons.php:165
+msgid "Instagram URL"
+msgstr ""
+
+#: elementor/general/mailchimp.php:54
+msgid "Intro text"
+msgstr ""
+
+#: register_post_type.php:870
+msgid "Items"
+msgstr ""
+
+#: elementor/general/portfolios.php:42
+msgid "Justified Gallery"
+msgstr ""
+
+#: elementor/general/portfolios.php:77
+msgid "Justify"
+msgstr ""
+
+#: elementor/general/portfolios.php:70
+msgid "Last row"
+msgstr ""
+
+#: woo_term.php:48 woo_term.php:141 elementor/general/logos.php:33
+#: elementor/general/blogs.php:39 elementor/woocommerce/product_deals.php:35
+msgid "Layout"
+msgstr ""
+
+#: metaboxes/page_options.php:31
+msgid "Layout Fullwidth"
+msgstr ""
+
+#: metaboxes/page_options.php:76
+msgid "Layout Style"
+msgstr ""
+
+#: elementor/general/portfolios.php:37
+msgid "Layouts"
+msgstr ""
+
+#: elementor/general/countdown.php:46 elementor/general/mailchimp.php:128
+#: elementor/general/banner.php:138 elementor/general/blogs.php:102
+msgid "Left"
+msgstr ""
+
+#: woo_term.php:54 woo_term.php:148 metaboxes/post_options.php:46
+#: metaboxes/product_options.php:30 metaboxes/page_options.php:95
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: elementor/general/banner.php:118 elementor/general/banner-2.php:58
+msgid "Left Bottom"
+msgstr ""
+
+#: elementor/general/banner.php:119 elementor/general/banner-2.php:59
+msgid "Left Center"
+msgstr ""
+
+#: woo_term.php:52 woo_term.php:59 woo_term.php:146 woo_term.php:154
+#: metaboxes/post_options.php:44 metaboxes/post_options.php:52
+#: metaboxes/product_options.php:28 metaboxes/product_options.php:36
+#: metaboxes/page_options.php:93 metaboxes/page_options.php:101
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/general/banner.php:117 elementor/general/banner-2.php:57
+msgid "Left Top"
+msgstr ""
+
+#: metaboxes/page_options.php:155 elementor/general/twitter_slider.php:82
+#: elementor/general/testimonial.php:196 elementor/general/mailchimp.php:144
+msgid "Light"
+msgstr ""
+
+#: elementor/ajax-functions.php:334
+msgid "Like"
+msgstr ""
+
+#: elementor/ajax-functions.php:333 elementor/ajax-functions.php:334
+msgid "Like it"
+msgstr ""
+
+#: widgets/twitter.php:197 elementor/general/logos.php:62
+#: elementor/general/portfolios.php:182 elementor/general/testimonial.php:100
+#: elementor/general/blogs.php:70 elementor/woocommerce/product_deals.php:76
+#: elementor/woocommerce/product_categories.php:61
+#: elementor/woocommerce/product_brands.php:91
+#: elementor/woocommerce/list_of_product_categories.php:56
+#: elementor/woocommerce/products.php:88
+#: elementor/woocommerce/products_in_product_type_tabs.php:119
+#: elementor/woocommerce/products_in_category_tabs.php:147
+msgid "Limit"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:53
+msgid "Limit tweets"
+msgstr ""
+
+#: elementor/general/banner.php:289 elementor/general/banner-2.php:92
+msgid "Line"
+msgstr ""
+
+#: elementor/general/banner.php:161 elementor/general/banner-2.php:74
+#: elementor/woocommerce/products_in_category_tabs.php:70
+msgid "Link"
+msgstr ""
+
+#: widgets/social_icons.php:68
+msgid "Linked in"
+msgstr ""
+
+#: widgets/social_icons.php:181
+msgid "Linked in URL"
+msgstr ""
+
+#: metaboxes/team_options.php:34
+msgid "LinkedIn Link"
+msgstr ""
+
+#: woo_term.php:237
+msgid "LinkedIn URL"
+msgstr ""
+
+#: woo_term.php:293
+msgid "Linkedin URL"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:328
+#: elementor/woocommerce/products.php:40
+msgid "List"
+msgstr ""
+
+#: elementor/general/portfolios.php:342
+msgid "Load more"
+msgstr ""
+
+#: elementor/general/portfolios.php:360 elementor/general/blogs.php:296
+msgid "Load more button text"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:208
+msgid "Load the products of sub categories in each tab"
+msgstr ""
+
+#: metaboxes/page_options.php:232
+msgid "Logo"
+msgstr ""
+
+#: register_post_type.php:740 register_post_type.php:911
+msgctxt "logo"
+msgid "Add New"
+msgstr ""
+
+#: metaboxes/metaboxes.php:42
+msgid "Logo Options"
+msgstr ""
+
+#: register_post_type.php:797 register_post_type.php:828
+msgid "Logo Settings"
+msgstr ""
+
+#: metaboxes/logo_options.php:6
+msgid "Logo URL"
+msgstr ""
+
+#: register_post_type.php:750
+msgid "Logos"
+msgstr ""
+
+#: metaboxes/page_options.php:54
+msgid "Main Content Layout Fullwidth"
+msgstr ""
+
+#: elementor/general/portfolios.php:111
+msgid "Margins"
+msgstr ""
+
+#: elementor/general/portfolios.php:41 elementor/general/blogs.php:45
+msgid "Masonry"
+msgstr ""
+
+#: register_post_type.php:966
+msgid "Mega Menus"
+msgstr ""
+
+#: register_post_type.php:956
+msgctxt "mega_menu"
+msgid "Add New"
+msgstr ""
+
+#: metaboxes/metaboxes.php:25
+msgid "Member Information"
+msgstr ""
+
+#: register_post_type.php:521
+msgid "Member name"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:57
+#: elementor/woocommerce/products.php:69
+#: elementor/woocommerce/products_in_product_type_tabs.php:80
+#: elementor/woocommerce/products_in_category_tabs.php:128
+#: elementor/woocommerce/products_in_category_tabs.php:248
+msgid "Mixed Order"
+msgstr ""
+
+#: widgets/products.php:262
+msgid "Mixed order"
+msgstr ""
+
+#: metaboxes/page_options.php:239
+msgid "Mobile Logo"
+msgstr ""
+
+#: widgets/product_categories.php:164 widgets/product_filter_by_brand.php:348
+#: elementor/general/portfolios.php:217 elementor/general/blogs.php:120
+msgid "Name"
+msgstr ""
+
+#: register_post_type.php:1029
+msgid "New brand name"
+msgstr ""
+
+#: register_post_type.php:99 register_post_type.php:620
+#: register_post_type.php:782
+msgid "New Category Name"
+msgstr ""
+
+#: register_post_type.php:914
+msgid "New Footer Block"
+msgstr ""
+
+#: register_post_type.php:743
+msgid "New Logo"
+msgstr ""
+
+#: register_post_type.php:959
+msgid "New Mega Menu"
+msgstr ""
+
+#: register_post_type.php:391
+msgid "New Member"
+msgstr ""
+
+#: register_post_type.php:53
+msgid "New Portfolio"
+msgstr ""
+
+#: register_post_type.php:581
+msgid "New Testimonial"
+msgstr ""
+
+#: metaboxes/logo_options.php:18 elementor/general/team_members.php:81
+msgid "New Window Tab"
+msgstr ""
+
+#: widgets/instagram.php:190
+msgid "New window tab"
+msgstr ""
+
+#: elementor/ajax-functions.php:407
+msgid "Next page"
+msgstr ""
+
+#: elementor/base.php:110 elementor/base.php:124 elementor/base.php:138
+#: elementor/base.php:152 elementor/base.php:166 elementor/base.php:180
+#: elementor/base.php:194 elementor/base.php:208 elementor/base.php:222
+#: elementor/base.php:236 elementor/base.php:252 metaboxes/page_options.php:37
+#: metaboxes/page_options.php:48 metaboxes/page_options.php:59
+#: metaboxes/page_options.php:70 metaboxes/page_options.php:143
+#: metaboxes/page_options.php:183 metaboxes/page_options.php:194
+#: metaboxes/page_options.php:219 elementor/general/logos.php:51
+#: elementor/general/logos.php:123 elementor/general/logos.php:137
+#: elementor/general/logos.php:152 elementor/general/portfolios.php:151
+#: elementor/general/portfolios.php:168 elementor/general/portfolios.php:245
+#: elementor/general/portfolios.php:259 elementor/general/portfolios.php:273
+#: elementor/general/portfolios.php:287 elementor/general/portfolios.php:301
+#: elementor/general/portfolios.php:315 elementor/general/portfolios.php:329
+#: elementor/general/twitter_slider.php:67
+#: elementor/general/twitter_slider.php:95
+#: elementor/general/twitter_slider.php:109
+#: elementor/general/twitter_slider.php:123
+#: elementor/general/testimonial.php:114 elementor/general/testimonial.php:128
+#: elementor/general/testimonial.php:142 elementor/general/testimonial.php:156
+#: elementor/general/testimonial.php:170 elementor/general/testimonial.php:219
+#: elementor/general/testimonial.php:233 elementor/general/testimonial.php:247
+#: elementor/general/team_members.php:105
+#: elementor/general/team_members.php:119
+#: elementor/general/team_members.php:133 elementor/general/blogs.php:148
+#: elementor/general/blogs.php:162 elementor/general/blogs.php:176
+#: elementor/general/blogs.php:190 elementor/general/blogs.php:204
+#: elementor/general/blogs.php:218 elementor/general/blogs.php:232
+#: elementor/general/blogs.php:246 elementor/general/blogs.php:271
+#: elementor/general/blogs.php:285 elementor/general/blogs.php:311
+#: elementor/general/blogs.php:326 elementor/woocommerce/product_deals.php:125
+#: elementor/woocommerce/product_deals.php:139
+#: elementor/woocommerce/product_deals.php:167
+#: elementor/woocommerce/product_deals.php:181
+#: elementor/woocommerce/product_categories.php:75
+#: elementor/woocommerce/product_categories.php:143
+#: elementor/woocommerce/product_categories.php:157
+#: elementor/woocommerce/product_categories.php:171
+#: elementor/woocommerce/product_categories.php:231
+#: elementor/woocommerce/product_categories.php:245
+#: elementor/woocommerce/product_categories.php:259
+#: elementor/woocommerce/product_categories.php:273
+#: elementor/woocommerce/product_categories.php:287
+#: elementor/woocommerce/product_brands.php:53
+#: elementor/woocommerce/product_brands.php:105
+#: elementor/woocommerce/product_brands.php:119
+#: elementor/woocommerce/product_brands.php:133
+#: elementor/woocommerce/product_brands.php:147
+#: elementor/woocommerce/product_brands.php:161
+#: elementor/woocommerce/product_brands.php:175
+#: elementor/woocommerce/product_brands.php:189
+#: elementor/woocommerce/list_of_product_categories.php:105
+#: elementor/woocommerce/list_of_product_categories.php:119
+#: elementor/woocommerce/list_of_product_categories.php:149
+#: elementor/woocommerce/list_of_product_categories.php:175
+#: elementor/woocommerce/products.php:140
+#: elementor/woocommerce/products.php:186
+#: elementor/woocommerce/products.php:200
+#: elementor/woocommerce/products.php:228
+#: elementor/woocommerce/products.php:242
+#: elementor/woocommerce/products.php:256
+#: elementor/woocommerce/products.php:270
+#: elementor/woocommerce/products_in_product_type_tabs.php:49
+#: elementor/woocommerce/products_in_product_type_tabs.php:164
+#: elementor/woocommerce/products_in_product_type_tabs.php:178
+#: elementor/woocommerce/products_in_product_type_tabs.php:206
+#: elementor/woocommerce/products_in_product_type_tabs.php:220
+#: elementor/woocommerce/products_in_product_type_tabs.php:234
+#: elementor/woocommerce/products_in_product_type_tabs.php:250
+#: elementor/woocommerce/products_in_category_tabs.php:205
+#: elementor/woocommerce/products_in_category_tabs.php:219
+#: elementor/woocommerce/products_in_category_tabs.php:265
+#: elementor/woocommerce/products_in_category_tabs.php:279
+#: elementor/woocommerce/products_in_category_tabs.php:313
+#: elementor/woocommerce/products_in_category_tabs.php:327
+#: elementor/woocommerce/products_in_category_tabs.php:355
+#: elementor/woocommerce/products_in_category_tabs.php:369
+#: elementor/woocommerce/products_in_category_tabs.php:383
+msgid "No"
+msgstr ""
+
+#: register_post_type.php:1030
+msgid "No brands found"
+msgstr ""
+
+#: register_post_type.php:918
+msgid "No Footer Blocks Found"
+msgstr ""
+
+#: register_post_type.php:919
+msgid "No Footer Blocks Found In Trash"
+msgstr ""
+
+#: register_post_type.php:747
+msgid "No Logos Found"
+msgstr ""
+
+#: register_post_type.php:748
+msgid "No Logos Found In Trash"
+msgstr ""
+
+#: register_post_type.php:963
+msgid "No Mega Menus Found"
+msgstr ""
+
+#: register_post_type.php:964
+msgid "No Mega Menus Found In Trash"
+msgstr ""
+
+#: register_post_type.php:394
+msgid "No Member found"
+msgstr ""
+
+#: register_post_type.php:395
+msgid "No Member found in Trash"
+msgstr ""
+
+#: register_post_type.php:56
+msgid "No Portfolio found"
+msgstr ""
+
+#: register_post_type.php:57
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:31
+msgid "no rating"
+msgstr ""
+
+#: metaboxes/page_options.php:261
+msgid "No Slider"
+msgstr ""
+
+#: register_post_type.php:585
+msgid "No Testimonials Found"
+msgstr ""
+
+#: register_post_type.php:586
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: widgets/product_categories.php:168 widgets/blogs.php:287
+#: widgets/product_filter_by_brand.php:351 elementor/general/portfolios.php:214
+#: elementor/general/banner.php:290 elementor/general/blogs.php:117
+#: elementor/general/banner-2.php:93
+msgid "None"
+msgstr ""
+
+#: elementor/general/currency.php:33
+msgid "Note: This element is used for the WooCommerce Multilingual plugin"
+msgstr ""
+
+#: elementor/general/language.php:33
+msgid "Note: This element is used for the WPML plugin"
+msgstr ""
+
+#: elementor/base.php:262
+msgid "Number of color swatches"
+msgstr ""
+
+#: elementor/general/blogs.php:62
+msgid "Number of Columns"
+msgstr ""
+
+#: elementor/general/team_members.php:70
+msgid "Number of Columns. 5 columns is not available on the Grid layout"
+msgstr ""
+
+#: widgets/recent_comments.php:171
+msgid "Number of comments to show"
+msgstr ""
+
+#: elementor/general/team_members.php:33
+msgid "Number of members"
+msgstr ""
+
+#: widgets/instagram.php:175
+msgid "Number of photos"
+msgstr ""
+
+#: elementor/general/portfolios.php:186 elementor/general/blogs.php:74
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/products.php:291 widgets/blogs.php:280
+msgid "Number of posts to show"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:80
+#: elementor/woocommerce/products.php:92
+msgid "Number of Products"
+msgstr ""
+
+#: widgets/recent_comments.php:203 widgets/products.php:286
+#: widgets/blogs.php:366
+msgid "Number of rows - in carousel slider"
+msgstr ""
+
+#: widgets/blogs.php:354 elementor/general/testimonial.php:180
+#: elementor/general/blogs.php:256
+msgid "Number of words in excerpt"
+msgstr ""
+
+#: widgets/product_categories.php:166 widgets/product_filter_by_brand.php:350
+msgid "Number product"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:71
+#: elementor/woocommerce/product_brands.php:101
+msgid "Only display the first level"
+msgstr ""
+
+#: elementor/general/logos.php:47
+#: elementor/woocommerce/product_categories.php:241
+#: elementor/woocommerce/products.php:196
+#: elementor/woocommerce/products_in_product_type_tabs.php:174
+#: elementor/woocommerce/products_in_category_tabs.php:323
+msgid "Only show slider on mobile"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:188
+#: widgets/product_filter_by_brand.php:322
+msgid "OR"
+msgstr ""
+
+#: widgets/product_categories.php:172 widgets/blogs.php:297
+#: widgets/product_filter_by_brand.php:355 elementor/general/portfolios.php:227
+#: elementor/general/blogs.php:130
+msgid "Order"
+msgstr ""
+
+#: widgets/product_categories.php:162 widgets/blogs.php:285
+#: widgets/product_filter_by_brand.php:346 elementor/general/portfolios.php:210
+#: elementor/general/blogs.php:113
+msgid "Order by"
+msgstr ""
+
+#: elementor/general/portfolios.php:311
+msgid "Original image"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:84
+msgid "Out of stock"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:39 metaboxes/product_options.php:64
+msgid "Override"
+msgstr ""
+
+#: metaboxes/page_options.php:309
+msgid "Page Footer"
+msgstr ""
+
+#: metaboxes/page_options.php:24 metaboxes/page_options.php:88
+msgid "Page Layout"
+msgstr ""
+
+#: metaboxes/metaboxes.php:15
+msgid "Page Options"
+msgstr ""
+
+#: metaboxes/page_options.php:253 metaboxes/page_options.php:268
+msgid "Page Slider"
+msgstr ""
+
+#: metaboxes/page_options.php:276
+msgid "Page Slider Position"
+msgstr ""
+
+#: elementor/general/portfolios.php:348
+msgid "Pagination"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:85
+#: elementor/woocommerce/list_of_product_categories.php:83
+msgid "Parent"
+msgstr ""
+
+#: register_post_type.php:1024
+msgid "Parent brand"
+msgstr ""
+
+#: register_post_type.php:1025
+msgid "Parent brand:"
+msgstr ""
+
+#: register_post_type.php:94 register_post_type.php:615
+#: register_post_type.php:777
+msgid "Parent Category"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:173
+msgid "Parent category"
+msgstr ""
+
+#: register_post_type.php:95 register_post_type.php:616
+#: register_post_type.php:778
+msgid "Parent Category:"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:236
+msgid "Partial Left"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:237
+msgid "Partial Right"
+msgstr ""
+
+#: widgets/social_icons.php:65
+msgid "Pinterest"
+msgstr ""
+
+#: metaboxes/team_options.php:55
+msgid "Pinterest Link"
+msgstr ""
+
+#: woo_term.php:233 woo_term.php:287 widgets/social_icons.php:177
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:450
+msgid "Please select at least one product category"
+msgstr ""
+
+#: register_post_type.php:61
+msgid "Portfolio"
+msgstr ""
+
+#: metaboxes/metaboxes.php:35
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: metaboxes/metaboxes.php:30
+msgid "Portfolio Options"
+msgstr ""
+
+#: register_post_type.php:327
+msgid "Portfolio permalinks"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:6
+msgid "Portfolio URL"
+msgstr ""
+
+#: register_post_type.php:59
+msgid "Portfolios"
+msgstr ""
+
+#: metaboxes/post_options.php:75
+msgid "Post Audio"
+msgstr ""
+
+#: metaboxes/metaboxes.php:57
+msgid "Post Gallery"
+msgstr ""
+
+#: metaboxes/post_options.php:31 metaboxes/post_options.php:38
+msgid "Post Layout"
+msgstr ""
+
+#: metaboxes/metaboxes.php:52
+msgid "Post Options"
+msgstr ""
+
+#: widgets/recent_comments.php:162
+msgid "Post type"
+msgstr ""
+
+#: register_post_type.php:909
+msgctxt "post type general name"
+msgid "Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:738
+msgctxt "post type general name"
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:954
+msgctxt "post type general name"
+msgid "Mega Menus"
+msgstr ""
+
+#: register_post_type.php:47
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:385
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:576
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:910
+msgctxt "post type singular name"
+msgid "Footer Block"
+msgstr ""
+
+#: register_post_type.php:739
+msgctxt "post type singular name"
+msgid "Logo"
+msgstr ""
+
+#: register_post_type.php:955
+msgctxt "post type singular name"
+msgid "Mega Menu"
+msgstr ""
+
+#: register_post_type.php:48
+msgctxt "post type singular name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:386
+msgctxt "post type singular name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:577
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: metaboxes/post_options.php:89
+msgid "Post Video"
+msgstr ""
+
+#: elementor/ajax-functions.php:406
+msgid "Previous page"
+msgstr ""
+
+#: metaboxes/page_options.php:162
+msgid "Primary Menu"
+msgstr ""
+
+#: register_post_type.php:1264
+msgid "Product brand base"
+msgstr ""
+
+#: register_post_type.php:1019
+msgid "Product brands"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:87
+#: elementor/woocommerce/products.php:99
+#: elementor/woocommerce/products_in_product_type_tabs.php:129
+#: elementor/woocommerce/products_in_category_tabs.php:157
+msgid "Product categories"
+msgstr ""
+
+#: metaboxes/product_options.php:15 metaboxes/product_options.php:22
+msgid "Product Layout"
+msgstr ""
+
+#: metaboxes/metaboxes.php:47
+msgid "Product Options"
+msgstr ""
+
+#: widgets/products.php:255 elementor/woocommerce/product_deals.php:49
+#: elementor/woocommerce/products.php:60
+#: elementor/woocommerce/products_in_category_tabs.php:119
+msgid "Product type"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:239
+msgid "Product type of general tab"
+msgstr ""
+
+#: metaboxes/team_options.php:13
+msgid "Profile Link"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:185
+#: widgets/product_filter_by_brand.php:319
+msgid "Query type"
+msgstr ""
+
+#: widgets/product_categories.php:167 widgets/blogs.php:292
+msgid "Random"
+msgstr ""
+
+#: elementor/general/testimonial.php:386 elementor/general/testimonial.php:387
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: metaboxes/testimonial_options.php:27
+msgid "Rating"
+msgstr ""
+
+#: elementor/ajax-functions.php:200 elementor/ajax-functions.php:378
+msgid "Read more"
+msgstr ""
+
+#: widgets/products.php:257 elementor/woocommerce/product_deals.php:53
+#: elementor/woocommerce/products.php:64
+#: elementor/woocommerce/products_in_product_type_tabs.php:75
+#: elementor/woocommerce/products_in_category_tabs.php:123
+#: elementor/woocommerce/products_in_category_tabs.php:243
+msgid "Recent"
+msgstr ""
+
+#: metaboxes/post_options.php:110
+msgid "Related Product Category"
+msgstr ""
+
+#: metaboxes/post_options.php:103
+msgid "Related Products"
+msgstr ""
+
+#: widgets/twitter.php:206
+msgid "Relative time"
+msgstr ""
+
+#: woo_filter_by_color.php:68 woo_filter_by_color.php:136
+msgid "Remove Image"
+msgstr ""
+
+#: register_post_type.php:1062 register_post_type.php:1151 woo_term.php:30
+#: woo_term.php:43 woo_term.php:112 woo_term.php:135
+msgid "Remove image"
+msgstr ""
+
+#: register_post_type.php:877
+msgid "Reset"
+msgstr ""
+
+#: metaboxes/page_options.php:263
+msgid "Revolution Slider"
+msgstr ""
+
+#: elementor/general/countdown.php:48 elementor/general/mailchimp.php:130
+#: elementor/general/banner.php:139 elementor/general/blogs.php:104
+msgid "Right"
+msgstr ""
+
+#: elementor/general/banner.php:121 elementor/general/banner-2.php:61
+msgid "Right Bottom"
+msgstr ""
+
+#: elementor/general/banner.php:122 elementor/general/banner-2.php:62
+msgid "Right Center"
+msgstr ""
+
+#: woo_term.php:53 woo_term.php:69 woo_term.php:147 woo_term.php:166
+#: metaboxes/post_options.php:45 metaboxes/post_options.php:60
+#: metaboxes/product_options.php:29 metaboxes/product_options.php:44
+#: metaboxes/page_options.php:94 metaboxes/page_options.php:109
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/general/banner.php:120 elementor/general/banner-2.php:60
+msgid "Right Top"
+msgstr ""
+
+#: register_post_type.php:519 metaboxes/team_options.php:6
+msgid "Role"
+msgstr ""
+
+#: elementor/general/banner.php:287 elementor/general/banner-2.php:90
+msgid "Rotate and zoom in"
+msgstr ""
+
+#: elementor/general/portfolios.php:89
+msgid "Row Height"
+msgstr ""
+
+#: elementor/general/logos.php:72 elementor/woocommerce/products.php:210
+#: elementor/woocommerce/products_in_product_type_tabs.php:188
+#: elementor/woocommerce/products_in_category_tabs.php:337
+msgid "Rows"
+msgstr ""
+
+#: metaboxes/team_options.php:41
+msgid "RSS Link"
+msgstr ""
+
+#: widgets/products.php:258 elementor/woocommerce/products.php:65
+#: elementor/woocommerce/products_in_product_type_tabs.php:76
+#: elementor/woocommerce/products_in_category_tabs.php:124
+#: elementor/woocommerce/products_in_category_tabs.php:244
+msgid "Sale"
+msgstr ""
+
+#: register_post_type.php:876
+msgid "Save changes"
+msgstr ""
+
+#: register_post_type.php:1022
+msgid "Search brands"
+msgstr ""
+
+#: register_post_type.php:92 register_post_type.php:613
+#: register_post_type.php:775
+msgid "Search Categories"
+msgstr ""
+
+#: register_post_type.php:917
+msgid "Search Footer Block"
+msgstr ""
+
+#: register_post_type.php:746
+msgid "Search Logos"
+msgstr ""
+
+#: register_post_type.php:962
+msgid "Search Mega Menu"
+msgstr ""
+
+#: register_post_type.php:393
+msgid "Search Member"
+msgstr ""
+
+#: register_post_type.php:55
+msgid "Search Portfolio"
+msgstr ""
+
+#: register_post_type.php:584
+msgid "Search Testimonials"
+msgstr ""
+
+#: widgets/social_icons.php:56 widgets/social_icons.php:65
+#: widgets/social_icons.php:68 widgets/social_icons.php:71
+msgid "See Us"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:187
+#: widgets/product_filter_by_brand.php:215
+msgid "Select a brand"
+msgstr ""
+
+#: metaboxes/page_options.php:289
+msgid "Select a slider"
+msgstr ""
+
+#: widgets/product_categories.php:143 widgets/products.php:267
+#: widgets/blogs.php:305
+msgid "Select categories"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:74
+msgid "Select Form"
+msgstr ""
+
+#: metaboxes/metaboxes.php:227
+msgid "Select Image"
+msgstr ""
+
+#: metaboxes/page_options.php:300
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:59
+#: elementor/woocommerce/products.php:71
+#: elementor/woocommerce/products_in_category_tabs.php:130
+#: elementor/woocommerce/products_in_category_tabs.php:250
+msgid "Select type of product"
+msgstr ""
+
+#: metaboxes/logo_options.php:17 widgets/instagram.php:189
+#: elementor/general/team_members.php:82
+msgid "Self"
+msgstr ""
+
+#: register_post_type.php:798
+msgid "Settings"
+msgstr ""
+
+#: functions.php:383 templates/social-sharing.php:2
+msgid "Share"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:196
+#: elementor/woocommerce/products.php:161
+#: elementor/woocommerce/products_in_category_tabs.php:289
+msgid "Shop more button label"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:185
+#: elementor/woocommerce/products.php:150
+msgid "Shop more button link"
+msgstr ""
+
+#: elementor/base.php:232
+msgid "Show add to cart button"
+msgstr ""
+
+#: elementor/general/portfolios.php:255 elementor/general/blogs.php:200
+msgid "Show author"
+msgstr ""
+
+#: widgets/recent_comments.php:177 elementor/general/testimonial.php:110
+msgid "Show avatar"
+msgstr ""
+
+#: widgets/products.php:322
+msgid "Show brand"
+msgstr ""
+
+#: metaboxes/page_options.php:189
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: elementor/general/testimonial.php:138
+msgid "Show byline"
+msgstr ""
+
+#: widgets/products.php:302 elementor/general/portfolios.php:283
+#: elementor/general/blogs.php:172
+msgid "Show categories"
+msgstr ""
+
+#: elementor/base.php:248
+msgid "Show color swatches"
+msgstr ""
+
+#: elementor/general/blogs.php:214
+msgid "Show comment"
+msgstr ""
+
+#: widgets/recent_comments.php:187
+msgid "Show comment author"
+msgstr ""
+
+#: widgets/recent_comments.php:192
+msgid "Show comment content"
+msgstr ""
+
+#: widgets/recent_comments.php:182
+msgid "Show comment date"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:121
+msgid "Show counter"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:142
+msgid ""
+"Show counter at the top of block. Counter on each product will be hidden"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:128
+msgid "Show counter on each product"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:135
+msgid "Show counter today"
+msgstr ""
+
+#: widgets/facebook_page.php:108
+msgid "Show cover photo"
+msgstr ""
+
+#: elementor/general/portfolios.php:269 elementor/general/testimonial.php:152
+#: elementor/general/blogs.php:228
+msgid "Show date"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:105
+#: elementor/general/testimonial.php:229
+msgid "Show dot navigation"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:112
+msgid ""
+"Show dot navigation at the bottom. If it is enabled, the navigation buttons "
+"will be removed"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:269
+#: elementor/woocommerce/products.php:238
+#: elementor/woocommerce/products_in_product_type_tabs.php:216
+#: elementor/woocommerce/products_in_category_tabs.php:365
+msgid "Show dots navigation"
+msgstr ""
+
+#: elementor/general/blogs.php:242
+msgid "Show excerpt"
+msgstr ""
+
+#: widgets/facebook_page.php:100
+msgid "Show Faces"
+msgstr ""
+
+#: elementor/general/portfolios.php:325
+msgid "Show filter bar"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:215
+msgid "Show general tab"
+msgstr ""
+
+#: elementor/general/logos.php:55
+#: elementor/woocommerce/product_categories.php:248
+#: elementor/woocommerce/products.php:203
+#: elementor/woocommerce/products_in_product_type_tabs.php:181
+#: elementor/woocommerce/products_in_category_tabs.php:330
+msgid "Show Grid on desktop and only enable Slider on mobile"
+msgstr ""
+
+#: widgets/recent_comments.php:199 widgets/products.php:334
+#: widgets/blogs.php:362 widgets/instagram.php:202
+#: elementor/general/testimonial.php:215 elementor/general/team_members.php:101
+#: elementor/woocommerce/product_categories.php:227
+#: elementor/woocommerce/products.php:182
+#: elementor/woocommerce/products_in_product_type_tabs.php:160
+#: elementor/woocommerce/products_in_category_tabs.php:309
+msgid "Show in a carousel slider"
+msgstr ""
+
+#: widgets/products.php:327
+msgid "Show label"
+msgstr ""
+
+#: elementor/general/portfolios.php:297
+msgid "Show like icon"
+msgstr ""
+
+#: elementor/general/blogs.php:281
+msgid "Show load more button"
+msgstr ""
+
+#: elementor/general/testimonial.php:124
+msgid "Show name"
+msgstr ""
+
+#: widgets/recent_comments.php:209 widgets/products.php:339
+#: widgets/blogs.php:372 widgets/instagram.php:207
+#: elementor/general/logos.php:133 elementor/general/portfolios.php:147
+#: elementor/general/twitter_slider.php:91
+#: elementor/general/team_members.php:115 elementor/general/blogs.php:307
+#: elementor/woocommerce/product_deals.php:163
+#: elementor/woocommerce/product_categories.php:255
+#: elementor/woocommerce/product_brands.php:171
+#: elementor/woocommerce/products.php:224
+#: elementor/woocommerce/products_in_product_type_tabs.php:202
+#: elementor/woocommerce/products_in_category_tabs.php:351
+msgid "Show navigation button"
+msgstr ""
+
+#: metaboxes/page_options.php:178
+msgid "Show Page Title"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:122
+msgid "Show parent category at the first of list"
+msgstr ""
+
+#: elementor/general/portfolios.php:241
+msgid "Show portfolio title"
+msgstr ""
+
+#: widgets/blogs.php:340
+msgid "Show post author"
+msgstr ""
+
+#: widgets/blogs.php:345
+msgid "Show post comment"
+msgstr ""
+
+#: widgets/product_categories.php:132 widgets/product_filter_by_brand.php:334
+msgid "Show post count"
+msgstr ""
+
+#: widgets/blogs.php:335
+msgid "Show post date"
+msgstr ""
+
+#: widgets/blogs.php:350
+msgid "Show post excerpt"
+msgstr ""
+
+#: widgets/blogs.php:325
+msgid "Show post thumbnail"
+msgstr ""
+
+#: widgets/blogs.php:330 elementor/general/blogs.php:144
+msgid "Show post title"
+msgstr ""
+
+#: widgets/facebook_page.php:104
+msgid "Show Posts"
+msgstr ""
+
+#: widgets/products.php:312
+msgid "Show price"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:129
+msgid "Show product brand title"
+msgstr ""
+
+#: elementor/base.php:218
+msgid "Show product brands"
+msgstr ""
+
+#: elementor/base.php:204
+msgid "Show product categories"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:153
+msgid "Show product category title"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:193
+#: elementor/woocommerce/product_categories.php:167
+#: elementor/woocommerce/product_brands.php:143
+msgid "Show product count"
+msgstr ""
+
+#: elementor/base.php:106
+msgid "Show product image"
+msgstr ""
+
+#: elementor/base.php:190
+msgid "Show product label"
+msgstr ""
+
+#: elementor/base.php:120
+msgid "Show product name"
+msgstr ""
+
+#: elementor/base.php:148
+msgid "Show product price"
+msgstr ""
+
+#: elementor/base.php:176
+msgid "Show product rating"
+msgstr ""
+
+#: elementor/base.php:162
+msgid "Show product short description"
+msgstr ""
+
+#: elementor/base.php:134
+msgid "Show product SKU"
+msgstr ""
+
+#: widgets/products.php:307
+msgid "Show product title"
+msgstr ""
+
+#: widgets/products.php:317 elementor/general/testimonial.php:166
+msgid "Show rating"
+msgstr ""
+
+#: elementor/general/blogs.php:267
+msgid "Show read more button"
+msgstr ""
+
+#: metaboxes/post_options.php:111
+msgid "Show related products of the selected category"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:171
+#: elementor/woocommerce/products.php:136
+#: elementor/woocommerce/products_in_category_tabs.php:261
+msgid "Show shop more button"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:275
+msgid "Show shop more button in general tab"
+msgstr ""
+
+#: widgets/product_categories.php:136
+msgid "Show sub categories"
+msgstr ""
+
+#: elementor/general/blogs.php:186
+msgid "Show tags"
+msgstr ""
+
+#: elementor/base.php:255
+msgid ""
+"Show the color attribute of variations. The slug of the color attribute has "
+"to be \"color\""
+msgstr ""
+
+#: widgets/products.php:297 elementor/general/blogs.php:158
+msgid "Show thumbnail"
+msgstr ""
+
+#: widgets/social_icons.php:210
+msgid "Show Tooltip"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:12
+msgid ""
+"Shows list of product colors which let you filter product when viewing "
+"product categories. You have to have product attribute with slug \"color\""
+msgstr ""
+
+#: widgets/social_icons.php:78
+msgid "Skype"
+msgstr ""
+
+#: widgets/social_icons.php:193
+msgid "Skype Username"
+msgstr ""
+
+#: elementor/general/logos.php:37 elementor/general/portfolios.php:43
+#: elementor/general/testimonial.php:207 elementor/general/team_members.php:93
+#: elementor/general/blogs.php:44 elementor/woocommerce/product_deals.php:39
+#: elementor/woocommerce/product_deals.php:155
+#: elementor/woocommerce/product_categories.php:219
+#: elementor/woocommerce/products.php:174
+#: elementor/woocommerce/products_in_product_type_tabs.php:152
+#: elementor/woocommerce/products_in_category_tabs.php:301
+msgid "Slider"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:230
+msgid "Slider partial view"
+msgstr ""
+
+#: register_post_type.php:861
+msgid "Slider Responsive Options"
+msgstr ""
+
+#: widgets/product_categories.php:165 widgets/product_filter_by_brand.php:349
+msgid "Slug"
+msgstr ""
+
+#: widgets/facebook_page.php:112
+msgid "Small header"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:123
+#: elementor/woocommerce/list_of_product_categories.php:129
+msgid "Specific categories"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:104
+#: elementor/woocommerce/products.php:116
+msgid "Specific products"
+msgstr ""
+
+#: elementor/general/testimonial.php:64
+msgid "Specific testimonials"
+msgstr ""
+
+#: metaboxes/page_options.php:246
+msgid "Sticky Logo"
+msgstr ""
+
+#: widgets/social_icons.php:149 elementor/general/testimonial.php:33
+#: elementor/woocommerce/product_categories.php:35
+#: elementor/woocommerce/product_brands.php:35
+#: elementor/woocommerce/list_of_product_categories.php:33
+#: elementor/woocommerce/products.php:35
+#: elementor/woocommerce/products_in_category_tabs.php:43
+msgid "Style"
+msgstr ""
+
+#: elementor/general/testimonial.php:38
+#: elementor/woocommerce/product_categories.php:40
+#: elementor/woocommerce/product_brands.php:40
+msgid "Style 2"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:37
+msgid "Style Default"
+msgstr ""
+
+#: elementor/general/banner.php:281
+msgid "Style Effect"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:38
+msgid "Style Horizontal"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:41
+msgid "Style Vertical"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:45
+#, php-format
+msgid "Tab %s"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:60
+#, php-format
+msgid "Tab %s heading"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:71
+#, php-format
+msgid "Tab %s product type"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:104
+msgid "Tab Heading Columns"
+msgstr ""
+
+#: metaboxes/logo_options.php:13 widgets/instagram.php:187
+#: elementor/general/team_members.php:77
+msgid "Target"
+msgstr ""
+
+#: register_post_type.php:90 register_post_type.php:611
+#: register_post_type.php:773
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:91 register_post_type.php:612
+#: register_post_type.php:774
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: register_post_type.php:399
+msgid "Team"
+msgstr ""
+
+#: register_post_type.php:388
+msgctxt "Team"
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:50
+msgctxt "Team"
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:397
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:578
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: metaboxes/metaboxes.php:20
+msgid "Testimonial Details"
+msgstr ""
+
+#: register_post_type.php:588
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/general/countdown.php:42 elementor/general/mailchimp.php:124
+#: elementor/general/banner.php:134 elementor/general/blogs.php:98
+msgid "Text Align"
+msgstr ""
+
+#: elementor/general/countdown.php:85 elementor/general/banner.php:149
+#: elementor/woocommerce/product_categories.php:181
+#: elementor/woocommerce/list_of_product_categories.php:159
+msgid "Text Color"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:77
+#: elementor/general/testimonial.php:191
+msgid "Text color style"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:193
+msgid "Text Hover Color"
+msgstr ""
+
+#: elementor/general/mailchimp.php:139
+msgid "Text style"
+msgstr ""
+
+#: elementor/general/portfolios.php:100
+msgid "The preferred rows height in pixel"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:462
+msgid "The selected parent category does not have children"
+msgstr ""
+
+#. Name of the plugin
+msgid "ThemeSky"
+msgstr ""
+
+#: elementor/base.php:10
+msgid "ThemeSky Base"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeSky Team"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:234
+msgid "There is no brand"
+msgstr ""
+
+#: register_post_type.php:1057 register_post_type.php:1145
+#: register_post_type.php:1247
+msgid "Thumbnail"
+msgstr ""
+
+#: woo_filter_by_color.php:63 woo_filter_by_color.php:132
+msgid "Thumbnail Image"
+msgstr ""
+
+#: elementor/base.php:94 widgets/product_filter_by_color.php:181
+#: widgets/blogs.php:289 widgets/product_filter_by_brand.php:315
+#: elementor/general/portfolios.php:134 elementor/general/portfolios.php:218
+#: elementor/general/twitter_slider.php:33 elementor/general/mailchimp.php:44
+#: elementor/general/blogs.php:121
+#: elementor/woocommerce/list_of_product_categories.php:47
+#: elementor/woocommerce/products_in_product_type_tabs.php:33
+#: elementor/woocommerce/products_in_category_tabs.php:33
+msgid "Title"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:112
+msgid "Title:"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:56
+#: elementor/woocommerce/products.php:68
+#: elementor/woocommerce/products_in_product_type_tabs.php:79
+#: elementor/woocommerce/products_in_category_tabs.php:127
+#: elementor/woocommerce/products_in_category_tabs.php:247
+msgid "Top Rated"
+msgstr ""
+
+#: widgets/products.php:261
+msgid "Top rated"
+msgstr ""
+
+#: metaboxes/page_options.php:138
+msgid "Transparent Header"
+msgstr ""
+
+#: widgets/blogs.php:14
+msgid "TS - Blogs"
+msgstr ""
+
+#: widgets/facebook_page.php:14
+msgid "TS - Facebook Page"
+msgstr ""
+
+#: widgets/instagram.php:14
+msgid "TS - Instagram"
+msgstr ""
+
+#: widgets/mailchimp_subscription.php:14
+msgid "TS - Mailchimp Subscription"
+msgstr ""
+
+#: widgets/product_categories.php:14
+msgid "TS - Product Categories"
+msgstr ""
+
+#: widgets/product_filter_by_availability.php:13
+msgid "TS - Product Filter By Availability"
+msgstr ""
+
+#: widgets/product_filter_by_brand.php:15
+msgid "TS - Product Filter By Brand"
+msgstr ""
+
+#: widgets/product_filter_by_color.php:13
+msgid "TS - Product Filter By Color"
+msgstr ""
+
+#: widgets/products.php:14
+msgid "TS - Products"
+msgstr ""
+
+#: widgets/recent_comments.php:14
+msgid "TS - Recent Comments"
+msgstr ""
+
+#: widgets/social_icons.php:14
+msgid "TS - Social Icons"
+msgstr ""
+
+#: widgets/twitter.php:14
+msgid "TS - Twitter"
+msgstr ""
+
+#: elementor/general/banner.php:10
+msgid "TS Banner"
+msgstr ""
+
+#: elementor/general/banner-2.php:10
+msgid "TS Banner 2"
+msgstr ""
+
+#: elementor/general/blogs.php:10
+msgid "TS Blogs"
+msgstr ""
+
+#: elementor/general/countdown.php:10
+msgid "TS Countdown"
+msgstr ""
+
+#: elementor/general/currency.php:10
+msgid "TS Currency Switcher"
+msgstr ""
+
+#: class-elementor.php:65
+msgid "TS Elements"
+msgstr ""
+
+#: elementor/general/language.php:10
+msgid "TS Language Switcher"
+msgstr ""
+
+#: elementor/woocommerce/list_of_product_categories.php:10
+msgid "TS List Of Product Categories"
+msgstr ""
+
+#: elementor/general/logos.php:10
+msgid "TS Logos"
+msgstr ""
+
+#: elementor/general/mailchimp.php:10
+msgid "TS Mailchimp"
+msgstr ""
+
+#: elementor/general/portfolios.php:10
+msgid "TS Portfolios"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:10
+msgid "TS Product Brands"
+msgstr ""
+
+#: elementor/woocommerce/product_categories.php:10
+msgid "TS Product Categories"
+msgstr ""
+
+#: elementor/woocommerce/product_deals.php:10
+msgid "TS Product Deals"
+msgstr ""
+
+#: elementor/woocommerce/products.php:10
+msgid "TS Products"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:10
+msgid "TS Products In Category Tabs"
+msgstr ""
+
+#: elementor/woocommerce/products_in_product_type_tabs.php:10
+msgid "TS Products In Product Type Tabs"
+msgstr ""
+
+#: elementor/general/team_members.php:10
+msgid "TS Team Members"
+msgstr ""
+
+#: elementor/general/testimonial.php:10
+msgid "TS Testimonial"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:10
+msgid "TS Twitter Slider"
+msgstr ""
+
+#: widgets/social_icons.php:53
+msgid "Twitter"
+msgstr ""
+
+#: metaboxes/team_options.php:27
+msgid "Twitter Link"
+msgstr ""
+
+#: woo_term.php:221 woo_term.php:269 widgets/social_icons.php:161
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/general/twitter_slider.php:308
+msgid "Twitter.com"
+msgstr ""
+
+#: includes/instagram.php:113
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: elementor/general/currency.php:47 elementor/general/language.php:47
+msgid "Up"
+msgstr ""
+
+#: register_post_type.php:1027
+msgid "Update brand"
+msgstr ""
+
+#: register_post_type.php:97 register_post_type.php:618
+#: register_post_type.php:780
+msgid "Update Category"
+msgstr ""
+
+#: register_post_type.php:1061 register_post_type.php:1150 woo_term.php:29
+#: woo_term.php:42 woo_term.php:111 woo_term.php:134
+msgid "Upload/Add image"
+msgstr ""
+
+#: metaboxes/feature_options.php:6 metaboxes/testimonial_options.php:20
+msgid "URL"
+msgstr ""
+
+#: woo_filter_by_color.php:58 woo_filter_by_color.php:128
+msgid "Use color picker to pick one color."
+msgstr ""
+
+#: metaboxes/team_options.php:77
+msgid "Use FontAwesome Class. Ex: fa-vimeo-square"
+msgstr ""
+
+#: woo_filter_by_color.php:95 woo_filter_by_color.php:163
+#: register_post_type.php:1088 register_post_type.php:1177
+msgid "Use image"
+msgstr ""
+
+#: elementor/woocommerce/product_brands.php:49
+msgid "Use logo's settings"
+msgstr ""
+
+#: elementor/general/portfolios.php:318
+msgid "Use original image instead of thumbnail"
+msgstr ""
+
+#: widgets/twitter.php:193 elementor/general/twitter_slider.php:43
+msgid "Username"
+msgstr ""
+
+#: widgets/social_icons.php:152
+#: elementor/woocommerce/products_in_category_tabs.php:48
+msgid "Vertical"
+msgstr ""
+
+#: elementor/woocommerce/products_in_category_tabs.php:49
+msgid "Vertical Banner"
+msgstr ""
+
+#: metaboxes/page_options.php:170
+msgid "Vertical Menu"
+msgstr ""
+
+#: widgets/social_icons.php:153
+msgid "Vertical without icon"
+msgstr ""
+
+#: widgets/social_icons.php:75
+msgid "Viber"
+msgstr ""
+
+#: widgets/social_icons.php:189
+msgid "Viber Number"
+msgstr ""
+
+#: metaboxes/product_options.php:98
+msgid "Video"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:27 metaboxes/post_options.php:96
+#: metaboxes/product_options.php:105
+msgid "Video URL"
+msgstr ""
+
+#: register_post_type.php:916
+msgid "View Footer Block"
+msgstr ""
+
+#: register_post_type.php:745
+msgid "View Logo"
+msgstr ""
+
+#: register_post_type.php:961
+msgid "View Mega Menu"
+msgstr ""
+
+#: register_post_type.php:392
+msgid "View Member"
+msgstr ""
+
+#: register_post_type.php:54
+msgid "View Portfolio"
+msgstr ""
+
+#: register_post_type.php:583
+msgid "View Testimonial"
+msgstr ""
+
+#: widgets/social_icons.php:59
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/social_icons.php:169
+msgid "Vimeo URL"
+msgstr ""
+
+#: widgets/social_icons.php:59 widgets/social_icons.php:62
+msgid "Watch Us"
+msgstr ""
+
+#: metaboxes/page_options.php:82
+msgid "Wide"
+msgstr ""
+
+#: metaboxes/portfolio_options.php:20
+msgid "Year"
+msgstr ""
+
+#: elementor/base.php:111 elementor/base.php:125 elementor/base.php:139
+#: elementor/base.php:153 elementor/base.php:167 elementor/base.php:181
+#: elementor/base.php:195 elementor/base.php:209 elementor/base.php:223
+#: elementor/base.php:237 elementor/base.php:253 metaboxes/page_options.php:36
+#: metaboxes/page_options.php:47 metaboxes/page_options.php:58
+#: metaboxes/page_options.php:69 metaboxes/page_options.php:142
+#: metaboxes/page_options.php:182 metaboxes/page_options.php:193
+#: metaboxes/page_options.php:218 elementor/general/logos.php:52
+#: elementor/general/logos.php:124 elementor/general/logos.php:138
+#: elementor/general/logos.php:153 elementor/general/portfolios.php:152
+#: elementor/general/portfolios.php:169 elementor/general/portfolios.php:246
+#: elementor/general/portfolios.php:260 elementor/general/portfolios.php:274
+#: elementor/general/portfolios.php:288 elementor/general/portfolios.php:302
+#: elementor/general/portfolios.php:316 elementor/general/portfolios.php:330
+#: elementor/general/twitter_slider.php:68
+#: elementor/general/twitter_slider.php:96
+#: elementor/general/twitter_slider.php:110
+#: elementor/general/twitter_slider.php:124
+#: elementor/general/testimonial.php:115 elementor/general/testimonial.php:129
+#: elementor/general/testimonial.php:143 elementor/general/testimonial.php:157
+#: elementor/general/testimonial.php:171 elementor/general/testimonial.php:220
+#: elementor/general/testimonial.php:234 elementor/general/testimonial.php:248
+#: elementor/general/team_members.php:106
+#: elementor/general/team_members.php:120
+#: elementor/general/team_members.php:134 elementor/general/blogs.php:149
+#: elementor/general/blogs.php:163 elementor/general/blogs.php:177
+#: elementor/general/blogs.php:191 elementor/general/blogs.php:205
+#: elementor/general/blogs.php:219 elementor/general/blogs.php:233
+#: elementor/general/blogs.php:247 elementor/general/blogs.php:272
+#: elementor/general/blogs.php:286 elementor/general/blogs.php:312
+#: elementor/general/blogs.php:327 elementor/woocommerce/product_deals.php:126
+#: elementor/woocommerce/product_deals.php:140
+#: elementor/woocommerce/product_deals.php:168
+#: elementor/woocommerce/product_deals.php:182
+#: elementor/woocommerce/product_categories.php:76
+#: elementor/woocommerce/product_categories.php:144
+#: elementor/woocommerce/product_categories.php:158
+#: elementor/woocommerce/product_categories.php:172
+#: elementor/woocommerce/product_categories.php:232
+#: elementor/woocommerce/product_categories.php:246
+#: elementor/woocommerce/product_categories.php:260
+#: elementor/woocommerce/product_categories.php:274
+#: elementor/woocommerce/product_categories.php:288
+#: elementor/woocommerce/product_brands.php:54
+#: elementor/woocommerce/product_brands.php:106
+#: elementor/woocommerce/product_brands.php:120
+#: elementor/woocommerce/product_brands.php:134
+#: elementor/woocommerce/product_brands.php:148
+#: elementor/woocommerce/product_brands.php:162
+#: elementor/woocommerce/product_brands.php:176
+#: elementor/woocommerce/product_brands.php:190
+#: elementor/woocommerce/list_of_product_categories.php:106
+#: elementor/woocommerce/list_of_product_categories.php:120
+#: elementor/woocommerce/list_of_product_categories.php:150
+#: elementor/woocommerce/list_of_product_categories.php:176
+#: elementor/woocommerce/products.php:141
+#: elementor/woocommerce/products.php:187
+#: elementor/woocommerce/products.php:201
+#: elementor/woocommerce/products.php:229
+#: elementor/woocommerce/products.php:243
+#: elementor/woocommerce/products.php:257
+#: elementor/woocommerce/products.php:271
+#: elementor/woocommerce/products_in_product_type_tabs.php:50
+#: elementor/woocommerce/products_in_product_type_tabs.php:165
+#: elementor/woocommerce/products_in_product_type_tabs.php:179
+#: elementor/woocommerce/products_in_product_type_tabs.php:207
+#: elementor/woocommerce/products_in_product_type_tabs.php:221
+#: elementor/woocommerce/products_in_product_type_tabs.php:251
+#: elementor/woocommerce/products_in_category_tabs.php:206
+#: elementor/woocommerce/products_in_category_tabs.php:220
+#: elementor/woocommerce/products_in_category_tabs.php:266
+#: elementor/woocommerce/products_in_category_tabs.php:280
+#: elementor/woocommerce/products_in_category_tabs.php:314
+#: elementor/woocommerce/products_in_category_tabs.php:328
+#: elementor/woocommerce/products_in_category_tabs.php:356
+#: elementor/woocommerce/products_in_category_tabs.php:370
+#: elementor/woocommerce/products_in_category_tabs.php:384
+msgid "Yes"
+msgstr ""
+
+#: widgets/twitter.php:135 elementor/general/twitter_slider.php:354
+msgid "yesterday"
+msgstr ""
+
+#: elementor/ajax-functions.php:333 elementor/ajax-functions.php:334
+msgid "You liked it"
+msgstr ""
+
+#: register_post_type.php:832
+msgid "You must regenerate thumbnails after changing"
+msgstr ""
+
+#: elementor/woocommerce/products.php:273
+msgid "You should only enable this option when Columns is 1 or 2"
+msgstr ""
+
+#: widgets/social_icons.php:62
+msgid "Youtube"
+msgstr ""
+
+#: woo_term.php:229 woo_term.php:281 widgets/social_icons.php:173
+msgid "Youtube URL"
+msgstr ""
+
+#: elementor/general/banner.php:285 elementor/general/banner-2.php:88
+msgid "Zoom In"
+msgstr ""
+
+#: elementor/general/banner.php:286 elementor/general/banner-2.php:89
+msgid "Zoom Out"
+msgstr ""

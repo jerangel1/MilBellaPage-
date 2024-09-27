@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10013
+Data file = /Users/betsol-dev/Local Sites/milbella/app/public/wp-content/uploads/2024/09/demo-content-import-file_2024-09-27__13-51-12.xml
+Widget file = /Users/betsol-dev/Local Sites/milbella/app/public/wp-content/uploads/2024/09/demo-widgets-import-file_2024-09-27__13-51-12.json
+Customizer file = not defined!
+Redux files:
+agrofood_theme_options -> /Users/betsol-dev/Local Sites/milbella/app/public/wp-content/uploads/2024/09/demo-redux-import-file_0-2024-09-27__13-51-12.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Cart - Cart - Imported
+TS - Products - Recent Products - Imported
+Products by Rating list - Top rated products - Imported
+Recent Product Reviews - Recent reviews - Imported
+Products list - Products - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+
+Product Category Sidebar : 
+
+TS - Product Categories - Filter by - Imported
+Filter Products by Attribute - Type - Imported
+Filter Products by Price - By price - Imported
+TS - Product Filter By Brand - Brands - Imported
+
+Filter Widget Area : 
+
+TS - Product Categories - Filter by - Imported
+Filter Products by Attribute - Type - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: agrofood_theme_options finished successfully!
+
+---ocdi/after_import---
+
